@@ -9,7 +9,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=htharoldht&show_icons=true&theme=radical&count_private=true" height="165">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htharoldht&layout=compact&theme=radical&count_private=true" height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htharoldht&layout=compact&theme=radical&count_private=true&langs_count=10" height="165">
   </a>
 </p>
 
